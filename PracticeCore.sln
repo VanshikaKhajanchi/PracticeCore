@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCore", "PracticeCore\PracticeCore.csproj", "{0B88710D-6109-4F15-95C1-ACA6559CE12A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeMVCcore", "PracticeMVCcore\PracticeMVCcore.csproj", "{41566C07-D245-4E56-99BE-44D5A253A9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeWebApp", "PracticeWebApp\PracticeWebApp.csproj", "{252FC8F6-D7C0-443D-8201-0D96EDD5211B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B88710D-6109-4F15-95C1-ACA6559CE12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B88710D-6109-4F15-95C1-ACA6559CE12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B88710D-6109-4F15-95C1-ACA6559CE12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41566C07-D245-4E56-99BE-44D5A253A9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41566C07-D245-4E56-99BE-44D5A253A9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41566C07-D245-4E56-99BE-44D5A253A9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41566C07-D245-4E56-99BE-44D5A253A9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252FC8F6-D7C0-443D-8201-0D96EDD5211B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252FC8F6-D7C0-443D-8201-0D96EDD5211B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252FC8F6-D7C0-443D-8201-0D96EDD5211B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252FC8F6-D7C0-443D-8201-0D96EDD5211B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
